@@ -24,6 +24,7 @@ class HomePage extends React.Component {
   }
 
   render() {
+    console.log('s', s)
     return (
       <Layout className={s.content}>
         <div dangerouslySetInnerHTML={{ __html: html }} />

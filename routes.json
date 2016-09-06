@@ -8,6 +8,10 @@
     }
   },
   {
+    "path": "/fuckyou",
+    "page": "./pages/fuckyou"
+  },
+  {
     "path": "/error",
     "page": "./pages/error",
     "chunk": "main"
